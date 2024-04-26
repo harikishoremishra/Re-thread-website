@@ -1,0 +1,35 @@
+{
+  "name": "re_thread",
+  "version": "1.0.0",
+  "description": "This is a MERN project for Re-Sellig Clothes",
+  "main": "index.js",
+  "scripts": {
+    "test": "This is test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepanshi03/re_thread.git"
+  },
+  "keywords": [
+    "rethread",
+    "backend",
+    "frontend",
+    "reselling",
+    "react",
+    "express",
+    "node",
+    "mongo"
+  ],
+  "author": "Deepanshi Dey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepanshi03/re_thread/issues"
+  },
+  "homepage": "https://github.com/Deepanshi03/re_thread#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
+}
